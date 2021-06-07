@@ -1,1 +1,2 @@
-# i2c_lcd_esp32
+# LiquidCrystal_I2C
+LiquidCrystal Arduino library for the DFRobot I2C LCD displays
